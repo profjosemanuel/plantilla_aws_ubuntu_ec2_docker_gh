@@ -1,0 +1,1 @@
+# plantillaaws_docker_gh
